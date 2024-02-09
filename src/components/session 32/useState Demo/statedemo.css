@@ -1,0 +1,10 @@
+*{
+    padding : 0;
+    margin : 0
+}
+
+
+#decrement-button{
+    margin-left: 7px;
+    background-color: rgb(216, 127, 43);
+}

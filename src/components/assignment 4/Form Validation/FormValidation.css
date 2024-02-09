@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;1,200;1,400&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+body{
+    background: rgb(245,45,121);
+    background: linear-gradient(27deg, rgba(245,45,121,1) 21%, rgba(157,59,119,1) 54%, rgba(118,63,120,1) 89%);
+}
+
+.form{
+    /* border: 1px solid black; */
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    background-color: white;
+
+
+}
+
+/* .gender-radio{
+    display: flex;
+    margin-right: 3vw;
+}
+
+.gender-radio-main{
+    display: flex;
+    justify-content: space-evenly;
+    float: left;
+
+} */
+
+button{
+    border: none;
+    border-radius: 5px;
+    width: 8vw;
+    height: 7vh;
+    font-size: 1.15rem;
+}
